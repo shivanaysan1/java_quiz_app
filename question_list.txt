@@ -1,0 +1,26 @@
+25
+1:A:When did Burkina Faso gain independence?:5 August 1960:15 September 1961:21 August 1960:15 August 1961
+1:A:Which country colonized Burkina Faso?:France:Britain:Netherlands:Germany
+1:B:What is the capital city of Nepal?:Bangkok:Kathmandu:Thimphu:Yangon
+1:C:What country does not border Nepal?:China:India:Myanmar:Malaysia
+1:C:Which of the following is the capital of Estonia?:Tartu:Narva:Tallinn:Valga
+1:A:What is the national flower of Estonia?:The Cornflower:Chrysanthemum and Cherry Blossom:Camomile:Golden Wattle
+1:B:Which body of water is in Israel's southernmost region?:Black Sea:Red Sea:Baltic Sea:Mediterranean Sea
+1:D:What language is spoken in Israel?:Arabic:Urdu:English:Hebrew
+1:A:When is the date of the Mexican Independence Day?:16th September:24th July:4th April:26 January 
+1:A:How many states are in Mexico?:31:32:30:41
+2:B:Who is the President of Burkina Faso from 2015 to 2022?:Ibrahim Traore:Roch Marc Christian Kabore:Zephirin Diabre:Blaise Compaore:Roch.jpg
+2:A:What does the red represent on the flag?:Revolution:Passion:Blood:Valor:burkina.png
+2:D:Which of the following is not a climate type found in Nepal?:Ice cap mountains:Forests:River basin:Deserts:topo.jpg
+2:A:Which of the following religions is the most populous in Nepal?:Hinduism:Buddhism:Sikhism:Jainism:sadhus.jpg
+2:B:Who is the president of Estonia from 2016 to 2021?:Arnold Rüütel:Kersti Kaljulaid:Alar Karis:Lennart Meri:kersti.jpg
+2:A:What does the color blue on the flag represent?:Faith, loyalty and devotion:Tragic past of Estonian nation:The striving towards enlightenment and virtue:Love, passion and enthusiasm:estonia.png
+2:B:What is the primary currency in Israel?:Dinar:Israeli Shekel:Yen:Ringgit:currency.jpg
+2:A:Who was the first leader of Israel?:David Ben-Gurion:Shimon Peres:Yitzhak Navon:Chaim Azriel Weizmann:david.jpg
+2:A:What is the national animal of Mexico shown below?:Golden Eagle:Golden Hawk:Silver Eagle:Silver Hawk:goldeneagel.jpg
+2:A:What is shown in the picture below?:Chichen Itza:Pyramid of Khafre:The Great Pyramid of Giza:Pyramid of Djoser:mayan.jpg
+3:A:Which of the following is the national flower of Burkina Faso?:rose.jpg:hibiscus.jpeg:lily.jpg:lotus.jpg
+3:C:Which of the following is the national flag of Nepal?:bhutan.png:bangladesh.png:nepal.png:maldives.png
+3:A:Which of the following is the national bird of Estonia?:estonia_bird.jpg:Pheasant.jpg:siamese.png:palestine.jpeg
+3:A:What does Israel's flag look like?:israel.png:kuwait.png:bahrain.png:somalia.png
+3:A:Which flag below is the Mexican Flag?:mexico.png:tajikistan.png:italy.png:uae.png
